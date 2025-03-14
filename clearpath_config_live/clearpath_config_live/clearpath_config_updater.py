@@ -13,11 +13,10 @@
 # limitations under the License.
 
 import os
-
+import xacro
 from clearpath_generator_common.description.generator import (
     DescriptionGenerator
 )
-import xacro
 
 
 class ClearpathConfigUpdater:
@@ -35,7 +34,7 @@ class ClearpathConfigUpdater:
 
     def get_robot_description(self):
         """Get Robot Description Parameter."""
-        return self.doc.toprettyxml(indent='  ')
+        return self.doc.toprettyxml(indent="  ")
 
     def is_file(self, path: str) -> bool:
         """Check if File is the Same."""
@@ -50,5 +49,5 @@ class ClearpathConfigUpdater:
         dg.generate()
         # Re-load Description
         self.doc = xacro.process_file(
-            os.path.join(self.setup_path, 'robot.urdf.xacro')
+            os.path.join(self.setup_path, "robot.urdf.xacro")
         )
