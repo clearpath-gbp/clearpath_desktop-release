@@ -2,6 +2,9 @@
 Changelog for package clearpath_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.7.0 (2025-08-25)
+------------------
+
 2.0.0 (2025-01-30)
 ------------------
 * Add offboard sensors package (`#17 <https://github.com/clearpathrobotics/clearpath_desktop/issues/17>`_)
