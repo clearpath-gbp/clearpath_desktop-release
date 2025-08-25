@@ -1,3 +1,30 @@
+## clearpath_desktop (jazzy) - 2.7.0-2
+
+The packages in the `clearpath_desktop` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release clearpath_desktop -r jazzy -t jazzy` on `Mon, 25 Aug 2025 23:22:41 -0000`
+
+These packages were released:
+- `clearpath_config_live`
+- `clearpath_desktop`
+- `clearpath_offboard_sensors`
+- `clearpath_viz`
+
+Version of package(s) in repository `clearpath_desktop`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_desktop.git
+- release repository: https://github.com/clearpath-gbp/clearpath_desktop-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.7.0-1`
+- new version: `2.7.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_desktop (jazzy) - 2.7.0-1
 
 The packages in the `clearpath_desktop` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release clearpath_desktop -r jazzy -t jazzy` on `Mon, 25 Aug 2025 23:18:43 -0000`
