@@ -1,3 +1,29 @@
+## clearpath_desktop (humble) - 1.2.1-1
+
+The packages in the `clearpath_desktop` repository were released into the `humble` distro by running `/usr/bin/bloom-release clearpath_desktop -r humble -t humble` on `Fri, 26 Jun 2026 01:22:09 -0000`
+
+These packages were released:
+- `clearpath_config_live`
+- `clearpath_desktop`
+- `clearpath_viz`
+
+Version of package(s) in repository `clearpath_desktop`:
+
+- upstream repository: https://github.com/clearpathrobotics/clearpath_desktop.git
+- release repository: https://github.com/clearpath-gbp/clearpath_desktop-release.git
+- rosdistro version: `1.2.0-1`
+- old version: `1.2.0-1`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## clearpath_desktop (jazzy) - 2.9.0-1
 
 The packages in the `clearpath_desktop` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release clearpath_desktop -r jazzy -t jazzy` on `Fri, 26 Jun 2026 01:19:04 -0000`
