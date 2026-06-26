@@ -2,18 +2,24 @@
 Changelog for package clearpath_config_live
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.9.0 (2026-06-25)
+1.2.1 (2026-06-25)
 ------------------
-* Update cmake version to 3.20 (`#24 <https://github.com/clearpathrobotics/clearpath_desktop/issues/24>`_)
-* Contributors: luis-camero
+* [Humble] Changed to rostooling/setup-ros-docker:ubuntu-noble-latest for CI image. (`#28 <https://github.com/clearpathrobotics/clearpath_desktop/issues/28>`_)
+  Co-authored-by: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+* Contributors: mergify[bot]
 
-2.7.0 (2025-08-25)
+1.2.0 (2025-03-14)
 ------------------
 
-2.0.0 (2025-01-30)
+1.0.0 (2024-11-25)
 ------------------
-* Apply linting fixes
-* Contributors: Chris Iverach-Brereton
+* Added minimum version.
+* Contributors: Tony Baltovski
+
+0.3.0 (2024-09-19)
+------------------
+* Watch file directly instead of directory
+* Contributors: Luis Camero
 
 0.1.2 (2023-10-13)
 ------------------
@@ -28,11 +34,6 @@ Changelog for package clearpath_config_live
 
 0.1.0 (2023-08-25)
 ------------------
-
-0.3.0 (2024-09-19)
-------------------
-* Watch file directly instead of directory
-* Contributors: Luis Camero
 
 0.0.2 (2023-07-06)
 ------------------
