@@ -2,6 +2,11 @@
 Changelog for package clearpath_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.9.0 (2026-06-25)
+------------------
+* Update cmake version to 3.20 (`#24 <https://github.com/clearpathrobotics/clearpath_desktop/issues/24>`_)
+* Contributors: luis-camero
+
 2.7.0 (2025-08-25)
 ------------------
 
